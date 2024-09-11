@@ -18,10 +18,9 @@
 
 ## 📫 How to Reach Me
 - **Website:** [ignaciofianza.com](https://ignaciofianza.com)
-- **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white) [@yourusername](https://instagram.com/yourusername)
-- **Twitter:** ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white) [@yourusername](https://twitter.com/yourusername)
-- **GitHub:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [@ignaciofianza](https://github.com/ignaciofianza)
-- **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [@yourusername](https://linkedin.com/in/yourusername)
+- **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white) [@ignaciofianza](https://instagram.com/ignaciofianza)
+- **X:** ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white) [@nachofianzaa]([https://twitter.com/yourusername](https://x.com/nachofianzaa))
+- **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [@ignaciofianza](https://www.linkedin.com/in/ignacio-fianza-586020320/)
 
 ## 😄 Pronouns
 He/Him
