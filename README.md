@@ -17,7 +17,7 @@
 ## 📫 How to Reach Me
 - **Website:** [ignaciofianza.com](https://ignaciofianza.com)
 - **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white) [@ignaciofianza](https://instagram.com/ignaciofianza)
-- **X:** ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white) [@nachofianzaa]([https://twitter.com/yourusername](https://x.com/nachofianzaa))
+- **X:** ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white) [@nachofianzaa](https://x.com/nachofianzaa)
 - **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [@ignaciofianza](https://www.linkedin.com/in/ignacio-fianza-586020320/)
 
 ## 😄 Pronouns
