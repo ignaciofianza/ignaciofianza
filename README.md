@@ -6,7 +6,6 @@
 
 ## 🌱 Currently learning
 -  JavaScript
-- Java
 - MySQL
 
 ## 🚀 Tech Stack:
