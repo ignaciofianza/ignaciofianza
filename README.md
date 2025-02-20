@@ -2,6 +2,7 @@
 
 ## 👀 Interests
 - Web development
+- Frontend focused
 - Motorsports and simracing
 
 ## 🌱 Currently learning
