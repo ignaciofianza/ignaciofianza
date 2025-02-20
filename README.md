@@ -1,4 +1,4 @@
-# Hi there! I'm [@ignaciofianza](https://github.com/ignaciofianza) 👋
+# Hi there! I'm [@ignaciofianza](https://github.com/ignaciofianza), a full stack developer👋
 
 ## 👀 Interests
 - Web development
