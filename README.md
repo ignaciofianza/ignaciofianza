@@ -6,7 +6,7 @@
 - Linux, servers & automation
 
 ## 🌱 Currently Learning
-- 📌 On vacation — back in mid March!
+- 🧑🏻‍💻 PHP, MySQL
 
 ---
 
