@@ -81,7 +81,7 @@
 - 🌐 [ignaciofianza.com](https://ignaciofianza.com)  
 - 📸 [@ignaciofianza](https://instagram.com/ignaciofianza)  
 - 🐦 [@nachofianzaa_](https://x.com/nachofianzaa_)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-fianza-586020320/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciofianza/)
 
 ---
 
