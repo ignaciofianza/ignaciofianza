@@ -53,7 +53,7 @@
 
 ### 🚌 [InfoBondi](https://github.com/ignaciofianza/infobondi)  
 _Real-time public transport tracker using React + Leaflet_  
-![InfoBondi Preview](https://via.placeholder.com/500x250.png?text=Project+Preview)
+![InfoBondi Preview](https://www.ignaciofianza.com/images/projects/infobondi.png)
 
 ### 🖥️ [FianzaServer](https://github.com/ignaciofianza/fianzaserver)  
 _My personal home server setup based on Proxmox, Fedora, and TrueNAS._
