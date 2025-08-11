@@ -10,7 +10,7 @@
 - Linux, servers & automation
 
 ## 🌱 Currently Learning
-- 🧑🏻‍💻 PHP, MySQL
+- 🧑🏻‍💻 PHP, MySQL, Laravel
 
 ---
 
