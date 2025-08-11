@@ -51,14 +51,16 @@
 
 ## 🧰 Featured Projects
 
-### 🚌 [InfoBondi](https://github.com/ignaciofianza/infobondi)  
-_Real-time public transport tracker using React + Leaflet_  
-![InfoBondi Preview](https://www.ignaciofianza.com/images/projects/infobondi.png)
+### 🚌 InfoBondi  
+[![InfoBondi Preview](https://www.ignaciofianza.com/images/projects/infobondi.png)](https://infobondi.ignaciofianza.com)  
+_Real-time public transport tracker using React + Leaflet._
 
-### 🖥️ [FianzaServer](https://github.com/ignaciofianza/fianzaserver)  
-_My personal home server setup based on Proxmox, Fedora, and TrueNAS._
+### 🖥️ FianzaServer  
+[![FianzaServer Preview](https://www.ignaciofianza.com/images/projects/fianzaserver.png)](https://casa.ignaciofianza.com)  
+My personal home server setup based on Proxmox, along with general tutorials covering everything I've implemented.
 
-### 🌐 [ProyectoDWebFF](https://github.com/ignaciofianza/proyectoDWebFF)  
+### 🌐 ProyectoDWebFF  
+[![ProyectoDWebFF Preview](https://www.ignaciofianza.com/images/projects/ffautomotive.png)](https://automotora.ignaciofianza.com)  
 _Responsive institutional website with HTML, CSS, JavaScript & Bootstrap._
 
 ---
