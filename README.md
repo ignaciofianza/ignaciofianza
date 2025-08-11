@@ -16,10 +16,14 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()  
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+
 
 ### Backend & Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
@@ -90,7 +94,3 @@ He/Him
 
 ## ⚡ Fun Fact
 Born at **22:22** on October 27th — make a wish! 🎉
-
----
-##TEST
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=3&theme=tokyonight&bg=%23131422&badge=%231D1E33&border=%231D1E33&titleColor=%2370A6FD&line1=html5%2CHTML5%2CE34C26%3BCSS%2CCSS%2C663399%3Bbootstrap%2CBootstrap%2C663399%3Btailwindcss%2CTailwindCSS%2C06b6d4%3Bjavascript%2CJavaScript%2Cf0db4f%3Btypescript%2CTypeScript%2C007acc%3Breact%2Creact%2C007acc%3Bnodedotjs%2Cnodejs%2C68a063%3Bphp%2CPHP%2C474A8A%3Blaravel%2CLaravel%2CFF2D20%3Bexpress%2CExpress%2C0075C9%3B&line2=mysql%2CMySQL%2C004a8f%3BmongoDB%2CmongoDB%2C4DB33D%3B)
