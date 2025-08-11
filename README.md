@@ -26,9 +26,8 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()  
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]() 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]() 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 
-### Backend & Databases
+### Backend Development & Databases
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]() 
@@ -65,7 +64,7 @@ _Real-time public transport tracker using React + Leaflet._
 
 ### 🖥️ FianzaServer  
 [![FianzaServer Preview](https://www.ignaciofianza.com/images/projects/fianzaserver.png)](https://casa.ignaciofianza.com)  
-My personal home server setup based on Proxmox, along with general tutorials covering everything I've implemented.
+_My personal home server setup based on Proxmox, along with general tutorials covering everything I've implemented._
 
 ### 🌐 ProyectoDWebFF  
 [![ProyectoDWebFF Preview](https://www.ignaciofianza.com/images/projects/ffautomotive.png)](https://automotora.ignaciofianza.com)  
