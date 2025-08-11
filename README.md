@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm [@ignaciofianza](https://github.com/ignaciofianza) — Full Stack Developer
 
-💻 Full Stack Developer especializado en **frontend**, con experiencia en **PHP/Laravel** y **administración de servidores Linux**.  
-Me apasiona crear interfaces modernas, optimizadas y funcionales, además de explorar soluciones backend eficientes.
+💻 Full Stack Developer specializing in frontend with strong expertise in React, React Router, and the MERN stack. Skilled in designing modern, high-performance interfaces and implementing efficient, scalable backend solutions.
 
 ---
 
