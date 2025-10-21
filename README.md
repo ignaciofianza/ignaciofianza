@@ -12,6 +12,9 @@
 ## 🌱 Currently Learning
 - 🧑🏻‍💻 PHP, MySQL, Laravel
 
+## 🚀 Currently building frontend at 
+[JurassiCode](https://github.com/JurassiCode)
+
 ---
 
 ## 🚀 Tech Stack
