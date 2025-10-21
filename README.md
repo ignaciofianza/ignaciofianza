@@ -15,7 +15,7 @@
 ## 🚀 Currently building frontend at 
 [JurassiCode](https://github.com/JurassiCode)
 
----
+--
 
 ## 🚀 Tech Stack
 
