@@ -12,8 +12,8 @@
 ## 🌱 Currently Learning
 - 🧑🏻‍💻 PHP, MySQL, Laravel
 
-## 🚀 Currently building frontend at 
-- [JurassiCode](https://github.com/JurassiCode)
+## 👨🏻‍💻 Currently building frontend at
+[JurassiCode](https://github.com/orgs/JurassiCode)
 
 
 ## 🚀 Tech Stack
@@ -36,7 +36,6 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
