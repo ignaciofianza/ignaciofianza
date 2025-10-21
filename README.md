@@ -13,7 +13,7 @@
 - 🧑🏻‍💻 PHP, MySQL, Laravel
 
 ## 👨🏻‍💻 Currently building
-- [JurassiCode](https://github.com/JurassiCode)]
+- [JurassiCode](https://github.com/JurassiCode)
 - Essenza (COMING SOON)
 
 ## 🚀 Tech Stack
