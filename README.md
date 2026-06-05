@@ -130,19 +130,6 @@ Personal home lab project based on **Proxmox**, Linux servers, networking, self-
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ignaciofianza&show_icons=true&theme=radical&border_radius=12&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="Ignacio's GitHub stats" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciofianza&layout=compact&theme=radical&border_radius=12&hide_border=true&langs_count=8" 
-    alt="Top languages" 
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://streak-stats.demolab.com?user=ignaciofianza&theme=radical&hide_border=true&border_radius=12" 
     alt="GitHub streak" 
   />
